@@ -1,0 +1,6 @@
+{
+  "name": "Brew & Brown",
+  "description": "A premium cafe website featuring full-screen animated cafe atmospheres, artisanal brownies, hand-stretched pizzas, refreshing mocktails, and specialty coffees.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
